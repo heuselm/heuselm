@@ -46,5 +46,5 @@ FDR-controls OpenSWATH results and converts them for MSstats, mapDIA and aLFQ.
 
 [DiffTestR](https://github.com/heuselm/DiffTestR) (differential testing for AP-DIA-MS) ·
 [diapipeline](https://github.com/heuselm/diapipeline) (containerized OpenSWATH) ·
-[swathTUNER](https://github.com/heuselm/swathTUNER) (DIA window optimization) ·
-[igseq_workflow](https://github.com/heuselm/igseq_workflow) (immunoproteogenomics)
+[igseq_workflow](https://github.com/heuselm/igseq_workflow) (immunoproteogenomics) ·
+[swathTUNER](https://github.com/heuselm/swathTUNER) (DIA window optimization - fork)
